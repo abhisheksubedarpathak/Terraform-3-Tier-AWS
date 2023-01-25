@@ -1,0 +1,13 @@
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+.terraform/modules/compute
+.terraform/modules/database
+.terraform/modules/loadbalancing
+.terraform/modules/modules.json
+.terraform/modules/networking
+.terraform/providers/registry.terraform.io/hashicorp/aws/4.51.0/linux_amd64/terraform-provider-aws_v4.51.0_x5
+.terraform/providers/registry.terraform.io/hashicorp/local/2.3.0/linux_amd64/terraform-provider-local_v2.3.0_x5
+.terraform/providers/registry.terraform.io/hashicorp/null/3.2.1/linux_amd64/terraform-provider-null_v3.2.1_x5
+.terraform/providers/registry.terraform.io/hashicorp/random/3.4.3/linux_amd64/terraform-provider-random_v3.4.3_x5
+terraform.tfstate
+terraform.tfstate.backup
