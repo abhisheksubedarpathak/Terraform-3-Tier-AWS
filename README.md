@@ -1,4 +1,6 @@
 # Terraform_AWS_Three_Tier_Architecture
+<br>
+A three-tier architecture typically consists of a presentation tier, application tier, and data tier. Terraform modules can be used to create reusable and repeatable infrastructure-as-code for each tier, and the architecture can be placed within a custom VPC for added security and isolation.
 
 <br><br>
 <p align="center" >
