@@ -58,9 +58,9 @@ data "aws_lb_target_group" "three_tier_tg" {
 resource "aws_autoscaling_group" "three_tier_app" {
   name                = "three_tier_app"
   vpc_zone_identifier = var.private_subnets
-  min_size            = 3
+  min_size            = 1
   max_size            = 3
-  desired_capacity    = 3
+  desired_capacity    = 2
 
   target_group_arns = [data.aws_lb_target_group.three_tier_tg.arn]
 
@@ -89,9 +89,9 @@ resource "aws_launch_template" "three_tier_backend" {
 resource "aws_autoscaling_group" "three_tier_backend" {
   name                = "three_tier_backend"
   vpc_zone_identifier = var.private_subnets
-  min_size            = 3
+  min_size            = 1
   max_size            = 3
-  desired_capacity    = 3
+  desired_capacity    = 2
 
   launch_template {
     id      = aws_launch_template.three_tier_backend.id
