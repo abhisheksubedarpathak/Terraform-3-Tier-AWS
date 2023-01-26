@@ -14,7 +14,7 @@ The architecture will be placed within a custom Virtual Private Cloud (VPC) for 
 <br><br>
 The web tier will feature a bastion host and NAT gateway in public subnets to provide access to the underlying infrastructure and allow private subnets to access internet updates. 
 <br><br>
-In the application tier, an internet-facing load balancer will direct internet traffic to an auto-scaling group in private subnets, along with an auto-scaling group for the backend application. The desired capacity for auto-scaling is set up for 2 EC2 instances, with a minimum of 1 and maximum of 2 units. Scripts will be used to install Apache web server on the frontend and Node.js on the backend. 
+In the application tier, an internet-facing load balancer will direct internet traffic to an auto-scaling group in private subnets, along with an auto-scaling group for the backend application. The desired capacity for auto-scaling is set up for 2 EC2 instances, with a minimum of 1 and maximum of 3 units. Scripts will be used to install Apache web server on the frontend and Node.js on the backend. 
 <br><br>
 An additional layer of private subnets in the database tier will host a Multi-zone RDS MySQL database cluster which will be accessed using Node.js. This is just an example of the infrastructure that can be used for a web application. We will be using Cloud9 as Integrated Development Environment (IDE), but other options such as VS Code can also be used.
 
