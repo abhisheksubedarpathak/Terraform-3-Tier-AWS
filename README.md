@@ -43,7 +43,7 @@ Pricing
 <br>
 <br>
 <p align="center" >
-  <img src="images/Screenshot 2023-01-27 at 09.54.47.png" width="1000px"/>
+  <img src="images/Screenshot 2023-01-27 at 09.54.47.png" width="700px"/>
 </p>
 <br><br>
 
