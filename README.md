@@ -21,7 +21,7 @@ An additional layer of private subnets in the database tier will host a Multi-zo
 <br><br>
 <br><br>
 <p align="center" >
-  <img src="images/amazon-rds-dbms.png"/>
+  <img src="images/amazon-rds-dbms.png" width="700px"/>
 </p>
 <br><br>
 
@@ -43,7 +43,7 @@ Pricing
 <br>
 <br>
 <p align="center" >
-  <img src="images/Screenshot 2023-01-27 at 09.54.47.png" width="700px"/>
+  <img src="images/Screenshot 2023-01-27 at 09.54.47.png" width="1000px"/>
 </p>
 <br><br>
 
