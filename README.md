@@ -29,14 +29,14 @@ Amazon RDS is a RDBMS designed for users who want to set up, operate and scale d
 <br><br>
 Pros
 <br><br>
-Support. Amazon RDS supports various database systems, such as MySQL, PostgreF, MariaDB, Oracle, Microsoft SQL, and hybrid Aurora (which supports both MySQL and PostgreSQL).<br>
-Automation. Amazon RDS supports automatic host replacement, automatic software patches, auto-backup, and scheduled snapshots. These features help recover data lost due to corruption or accidental deletion.<br>
-Security. The DBMS features network isolation, data at rest encryption and in transit encryption, and resource-level permissions to ensure the highest level of data security.
+- Support. Amazon RDS supports various database systems, such as MySQL, PostgreF, MariaDB, Oracle, Microsoft SQL, and hybrid Aurora (which supports both MySQL and PostgreSQL).<br>
+- Automation. Amazon RDS supports automatic host replacement, automatic software patches, auto-backup, and scheduled snapshots. These features help recover data lost due to corruption or accidental deletion.<br>
+- Security. The DBMS features network isolation, data at rest encryption and in transit encryption, and resource-level permissions to ensure the highest level of data security.
 <br><br>
 Cons
 <br><br>
-No direct access. Amazon RDS is limited in providing direct access to the OS or the hardware. No direct access means that performance tuning must be done within the application or by tweaking the database engine parameters.<br>
-Additional metrics cost. RDS comes with basic logging, but users must pay a premium to get detailed logs (featuring fine-grained logging displaying events per minute).<br>
+- No direct access. Amazon RDS is limited in providing direct access to the OS or the hardware. No direct access means that performance tuning must be done within the application or by tweaking the database engine parameters.<br>
+- Additional metrics cost. RDS comes with basic logging, but users must pay a premium to get detailed logs (featuring fine-grained logging displaying events per minute).<br>
 Pricing
 <br>
 <br>
