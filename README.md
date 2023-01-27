@@ -20,6 +20,11 @@ An additional layer of private subnets in the database tier will host a Multi-zo
 
 <br><br>
 <br><br>
+<p align="center" >
+  <img src="images/amazon-rds-dbms.png" width="700px"/>
+</p>
+<br><br>
+
 Amazon RDS is a RDBMS designed for users who want to set up, operate and scale databases in the cloud. The solution allows users to launch database instances and connect applications.
 <br>
 Pros
