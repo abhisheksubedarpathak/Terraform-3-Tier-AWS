@@ -27,6 +27,8 @@ An additional layer of private subnets in the database tier will host a Multi-zo
 
 Amazon RDS is a RDBMS designed for users who want to set up, operate and scale databases in the cloud. The solution allows users to launch database instances and connect applications.
 <br><br>
+Amazon RDS has a Multi-AZ DB cluster deployment option. It is a high availability deployment mode of Amazon RDS with two readable standby DB instances. A Multi-AZ DB cluster has a writer DB instance and two reader DB instances in three separate Availability Zones in the same AWS Region. Multi-AZ DB clusters provide high availability, increased capacity for read workloads, and lower write latency when compared to Multi-AZ DB instance deployments.
+<br><br>
 Pros
 <br>
 - Support. Amazon RDS supports various database systems, such as MySQL, Postgres, MariaDB, Oracle, Microsoft SQL, and hybrid Aurora (which supports both MySQL and PostgreSQL).<br>
