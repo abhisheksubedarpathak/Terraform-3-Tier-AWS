@@ -35,10 +35,9 @@ Additional metrics cost. RDS comes with basic logging, but users must pay a prem
 Pricing
 <br>
 <br>
-| Free (trial)      | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| Free tier offers don't expire.
-RDS also offers a 12-month free tier, which starts upon activation.     | right-aligned | $1600 |
+| Free (trial)| RDS for PostgreSQL |RDS for MariaDB | RDS for MariaDB | RDS for MySQL | RDS for SQL Server | RDS for Oracle |
+| ------------- |:-------------:| -----:| -----:| -----:|-----:| -----:|
+| Free tier offers don't expire. RDS also offers a 12-month free tier, which starts upon activation.     | right-aligned | $1600 |
 
 Free (trial)	RDS for PostgreSQL	RDS for MariaDB	RDS for MySQL	RDS for SQL Server	RDS for Oracle
 Free tier offers don't expire.
