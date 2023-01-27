@@ -36,11 +36,9 @@ Pros
 Cons
 <br><br>
 - No direct access. Amazon RDS is limited in providing direct access to the OS or the hardware. No direct access means that performance tuning must be done within the application or by tweaking the database engine parameters.<br>
-- Additional metrics cost. RDS comes with basic logging, but users must pay a premium to get detailed logs (featuring fine-grained logging displaying events per minute).<br>
+- Additional metrics cost. RDS comes with basic logging, but users must pay a premium to get detailed logs (featuring fine-grained logging displaying events per minute).<br><br>
 Pricing
 <br>
-<br>
-
 <br><br>
 <p align="center" >
   <img src="images/Screenshot 2023-01-27 at 09.54.47.png" width="700px"/>
