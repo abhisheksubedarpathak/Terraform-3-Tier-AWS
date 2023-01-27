@@ -35,19 +35,12 @@ Additional metrics cost. RDS comes with basic logging, but users must pay a prem
 Pricing
 <br>
 <br>
-| Free (trial)| RDS for PostgreSQL |RDS for MariaDB | RDS for MariaDB | RDS for MySQL | RDS for SQL Server | RDS for Oracle |
-| ------------- |:-------------:| -----:| -----:| -----:|-----:| -----:|
-| Free tier offers don't expire. RDS also offers a 12-month free tier, which starts upon activation.     | $0.24 ($0.48)
-per hour, r5 large (r5 extra-large) | $1600 |
 
-Free (trial)	RDS for PostgreSQL	RDS for MariaDB	RDS for MySQL	RDS for SQL Server	RDS for Oracle
-Free tier offers don't expire.
-RDS also offers a 12-month free tier, which starts upon activation.	$0.24 ($0.48)
-per hour, r5 large (r5 extra-large)	$0.25 ($0.50)
-per hour, r5 large (r5 extra-large)	$0.29 ($0.58)
-per hour, r5 large (r5 extra-large)	$1.02 ($1.52)
-per hour, r5 large (r5 extra-large)	$0.482 ($0.964)
-per hour, r5 large (r5 extra-large)
+<br><br>
+<p align="center" >
+  <img src="images/Screenshot 2023-01-27 at 09.54.47.png" width="700px"/>
+</p>
+<br><br>
 
 <br><br>
 <p align="center" >
