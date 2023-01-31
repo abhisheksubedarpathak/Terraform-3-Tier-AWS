@@ -11,4 +11,3 @@
 .terraform/providers/registry.terraform.io/hashicorp/random/3.4.3/linux_amd64/terraform-provider-random_v3.4.3_x5
 terraform.tfstate
 terraform.tfstate.backup
-Terraform_AWS_Three_Tier_Architecture/images/
